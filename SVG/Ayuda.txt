@@ -1,3 +1,4 @@
 El siguiente ejercicio busca mostrar la diferencia de una imagen insertada como SVG y como png
 
 El SVG no tiende a pixelarse
+El SVG es más liviano
