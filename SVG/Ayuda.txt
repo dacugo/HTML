@@ -1,0 +1,3 @@
+El siguiente ejercicio busca mostrar la diferencia de una imagen insertada como SVG y como jpg
+
+El SVG no tiende a pixelarse
